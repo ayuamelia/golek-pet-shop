@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg"></p>
+<p align="center"><img src="https://pbs.twimg.com/media/GwNDryyXIAEbhX6?format=jpg&name=4096x4096"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
